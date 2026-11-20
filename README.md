@@ -51,6 +51,7 @@ Abre https://cmramosg01.github.io/ecuaciones_3en3/
 
 - [El discriminante](https://cmramosg01.github.io/discriminante_ecuaciones_g2/) (paso anterior)
 - [Ecuaciones bicuadradas](https://cmramosg01.github.io/ecuaciones_bicuadradas/) (paso siguiente)
+- [Ecuaciones con Ruffini](https://cmramosg01.github.io/ecuaciones_ruffini/) (grado 3 y 4)
 
 ---
 
